@@ -95,4 +95,4 @@ async def on_message(message):
 			log("non-number detected")
 		await bot.process_commands(message)
     
-bot.run('ODIwMjEzMDQwMTIwMDcwMTQ1.YEx46w.pNDHbLjsdBlcHSh5pdOw16qN63U')
+bot.run('insert token')
